@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Record Traffic Controller",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "RTC",
+  "namespace": "rtc1",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0",
+  "packageAliases": {
+    "Record Traffic Controller": "0Ho7Q000000Cah0SAC"
+  }
+}
